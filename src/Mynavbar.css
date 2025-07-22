@@ -1,0 +1,9 @@
+.man{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+}
+.active{
+    border-bottom: 2px solid black;
+}
